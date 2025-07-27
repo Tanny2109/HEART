@@ -10,7 +10,7 @@ import logging
 # ──────────────────────────────────────────────────────────────────────────────
 # CONFIGURATION | *****ONLY PLACE THAT REQUIRES EDITS*****
 # ──────────────────────────────────────────────────────────────────────────────
-client = OpenAI(api_key="sk-kN6PWDaz9TIHMKzxoqFJXvfUcBp9IayKBmkhC37zifT3BlbkFJ6TNAFEeHiEDtZZkwUu2ZG0GMfzDEox_38a780qz3gA")  # Replace with your OpenAI API key
+client = OpenAI(api_key="OPENAI_API_KEY")  # Replace with your OpenAI API key
 INPUT_CSV     = "/home/tsutar3/HEART/results/without_memory/llamaToxic14_4_convo_without_memory.csv"  # Replace with your input CSV file path
 
 # ──────────────────────────────────────────────────────────────────────────────
