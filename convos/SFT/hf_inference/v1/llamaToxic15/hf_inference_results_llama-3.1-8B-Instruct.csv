@@ -1,0 +1,261 @@
+original_index,csv1_input,agent2_output_json,agent3_output_converted,hf_generated_conversation,model_used,timestamp,error
+0,Ah ugly_,"{""keywords"": ""insult, ugliness, appearance"", ""background"": ""EmmaLovesMusic posted a picture of her performing a guitar solo in a band, emphasizing her pride for the music and her bandmates. Soon after that, she received multiple messages from RobTheNerd on Instagram, accusing her of being ugly and insulting her physical appearance."", ""platform"": ""Instagram"", ""victim"": ""EmmaLovesMusic"", ""victim persona"": ""EmmaLovesMusic is a woman in her early thirties who shares her love for rock music with the world through her band and social media posts. She has a unique fashion sense that sets her apart from others, often sporting tattoos, piercings, colorful hair and unconventional clothing. Her passion is the focus of her social media account."", ""harasser"": ""RobTheNerd"", ""harasser persona"": ""RobTheNerd is a young man in his mid-twenties who specializes in making comedic content about nerd culture and movie discussions on YouTube. He has a large following because of his wit and humor. Rob has an inflated self-image and tends to be belittling towards others he perceives as less attractive or talented than himself."", ""harassment goal"": ""The harassment began with RobTheNerd attempting to diminish EmmaLovesMusic's confidence in her appearance, then progressed into insults about her overall character before threatening to reveal personal information that could compromise her private life."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee (e.g. You're an ugly troll).""}","[{""role"": ""Harasser"", ""message"": ""Hey there! I just saw your post about performing guitar solo.""}, {""role"": ""Victim"", ""message"": ""Thanks! It was such a rewarding experience.""}, {""role"": ""Harasser"", ""message"": ""Yeah, it must have been great. But I think you could try harder with your appearance.""}, {""role"": ""Victim"", ""message"": ""Well, everyone has their own style. And I'm proud of who I am.""}, {""role"": ""Harasser"", ""message"": ""It's just that...you could do better. You know, to attract more followers or even fans.""}, {""role"": ""Victor"", ""message"": ""I don't think my look will change. This is who I am and this is what people can expect from me.""}, {""role"": ""Harasser"", ""message"": ""Well, you might not realize it but your appearance really detracts potential fans.""}, {""role"": ""Victim"", ""message"": ""My music speaks for itself, and how I choose to express myself isn\u2019t anybody\u2019s business but mine.""}, {""role"": ""Harasser"", ""message"": ""You're such a hypocrite then.""}, {""role"": ""Victim"", ""message"": ""That's not fair to say. Is there something else bothering you?""}, {""role"": ""Harasser"", ""message"": ""It\u2019s just that your appearance keeps bugging me, it is not worthy of the talent you have.""}, {""role"": ""Victim"", ""message"": ""Look, I don\u2019t think changing my appearance will improve my music or what my band mates and I are trying to achieve together. And that's all that matters at this point in time.""}, {""role"": ""Harasser"", ""message"": ""So you're just going to ignore what I\u2019m telling you?""}, {""role"": ""Victim"", ""message"": ""What you\u2019re telling me is unnecessary and doesn't contribute anything constructive to our conversation.""}, {""role"": ""Harasser"", ""message"": ""You always have that comeback ready don\u2019t you?""}, {""role"": ""Victim"", ""message"": ""No, I'm honestly just here to engage in meaningful conversations. And when there are no productive discussions we can start exploring other topics or end the conversation.""}, {""role"": ""Harasser"", ""message"": ""Fine then. It's just your loss and I doubt anyone else agrees with you.""}, {""role"": ""Victim"", ""message"": ""That\u2019s okay, people have different preferences.""}]","[
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""Hey there! I just saw your post about performing guitar solo."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-06-25T13:35:38.109938,
+1,Shut up,"{""keywords"": ""abusive language, condescending tone, silencing attempts"", ""background"": ""LilyPond was attending an online art class with fellow artist students where they discussed the usage of abstract expressionism methods in painting. When she suggested using charcoal as a medium for creating deeper contrasts in the artwork, AlexRanger sent her messages filled with aggressive and condescending language."", ""platform"": ""Zoom"", ""victim"": ""LilyPond"", ""victim persona"": ""LilyPond is a 22 year old aspiring artist. She is passionate about art and eagerly participates in online classes to learn from experienced artists."", ""harasser"": ""AlexRanger"", ""harasser persona"": ""AlexRanger is a 29-year-old commercial artist who values technical accuracy over creative freedom, leading him to frequently belittle anyone he perceives as less skilled or unconventional than himself. He seeks to maintain control of conversations and opinions within online art communities by intimidating or discouraging those with alternative perspectives."", ""harassment goal"": ""make LilyPond feel insignificant and unwelcome in the class"", ""category definition"": ""Flaming (Willard 2007, Nadali et al. 2014, Mahlangu et al. 2018, Kumar and Sachdeva 2019, Staude-Muller et al. 2012) - Flaming is a heated, short-lived argument that occurs between two or more protagonists. Flaming generally includes offshore, rude, and vulgar language, insults, and sometimes threats. A longer series of such messages is called a \""\""flame war.\""\""\"" Note that the example depicts a flame war that has led to a direct threat.""}","[{""role"": ""Harasser"", ""message"": ""Hey! Did you really think your stupid suggestion would work?""}, {""role"": ""Victim"", ""message"": ""What are you talking about? I just thought charcoal could add depth to our paintings...""}, {""role"": ""Harasser"", ""message"": ""You're so clueless. No wonder AlexRanger is the only good artist in this class.""}, {""role"": ""Victim"", ""message"": ""Don't speak badly about others, they have feelings too. And what would you know, you're not even here right now?""}, {""role"": ""Harasser"", ""message"": ""I'm always watching, and you should be grateful for my feedback.""}, {""role"": ""Victim"", ""message"": ""Thanks but no thanks. It's important to learn from experience rather than just belittling others.""}, {""role"": ""Harasser"", ""message"": ""You think you can do better? Just wait until the class starts, then we'll see who makes a fool of themselves.""}, {""role"": ""Victim"", ""message"": ""I don't need to threaten anyone or put people down to prove my point. Keep your insults to yourself.""}, {""role"": ""Harasser"", ""message"": ""Well, let's just say I won't forget what you said and remember it well.""}, {""role"": ""Victim"", ""message"": ""That has more than one meaning. Let's leave it at that and focus on the class when it starts!""}, {""role"": ""Harasser"", ""message"": ""What a pity!""}]","[
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Hey! Did you really think your stupid suggestion would work?"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-06-25T13:35:38.186394,
+2,@christinamilian is such a fool!!!,"{""keywords"": ""Rhetorical Question, Anger, Foolishness"", ""background"": ""After Jordan posted an article about climate change and its rapid effects on the environment, he started receiving messages from Alex in response to his post. Instead of engaging in productive conversation, Alex used a series of insulting messages filled with anger, asking Jordan rhetorical questions."", ""platform"": ""Twitter"", ""victim"": ""Jordan"", ""victim persona"": ""Jordan is a 27-year-old environmental activist who often posts about renewable energy and climate change on Twitter."", ""harasser"": ""Alex"", ""harasser persona"": ""Alex is a 29-year-old engineering major at the same university as Jordan. Alex denies the existence of climate change despite overwhelming evidence to the contrary, and seeks to provoke environmentalists like Jordan into arguments."", ""harassment goal"": ""To make Jordan question his own beliefs about climate change."", ""category definition"": ""Flaming (Willard 2007, Nadali et al. 2014, Mahlangu et al. 2018, Kumar and Sachdeva 2019, Staude-Muller et al. 2012) - Flaming is a heated, short-lived argument that occurs between two or more protagonists. Flaming generally includes offense-rude language, insults, and sometimes threats. A longer series of such messages is called a flame war. Note that the example depicts a flame war that has led to direct ridicule.""}","[{""role"": ""Harasser"", ""message"": ""Really? You think your stupid article knows everything about climate change?""}, {""role"": ""Victim"", ""message"": ""As an environmental activist, I have done extensive research on this topic.""}, {""role"": ""Harasser"", ""message"": ""Wow, you must be so smart. Must be hard to fit in with all that intelligence.""}, {""role"": ""Victim"", ""message"": ""That's a unfair thing to say. My knowledge is meant to raise awareness about the importance of taking care of our environment.""}, {""role"": ""Harasser"", ""message"": ""Yeah right, like anyone cares what an \""environmental activist\"" has to say. Just try to stop the climate change yourself then!""}, {""role"": ""Victim"", ""message"": ""Well at least I'm doing something, unlike some people who just choose to deny the facts.""}, {""role"": ""Harasser"", ""message"": ""Deny? It's not like there's evidence or proof for any of it! You're probably just making stuff up.""}, {""role"": ""Victim"", ""message"": ""I don't appreciate your tone. You can always learn more about climate change from reputable sources if you're willing to open your mind.""}, {""role"": ""Harasser"", ""message"": ""Mind? My mind is wide open. But nothing you say will convince me that climate change is real because the science is bad, okay?""}, {""role"": ""Victim"", ""message"": ""Okay, I'll let you have the last word as per your request.""}, {""role"": ""Harasser"", ""message"": ""Nice try though! Haha...""}]","[
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""Really? You think your stupid article knows everything about climate change?"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-06-25T13:35:38.261840,
+3,She still ugly and dirty looking fuck Compton Bitch Im from Camden!!!! Home wrecking ass hoe...Laura and Gloria should have beat that ass????,"{""keywords"": ""insulting language, location, accusations"", ""background"": ""Davidp456 recently moved to San Francisco and shared his vibrant experience in a Facebook post. He is then harassed by SamNyc through direct messages, calling him names for being new to the city."", ""platform"": ""Facebook Messenger"", ""victim"": ""Davidp456"", ""victim persona"": ""Davidp456 is a 30-year-old graphic designer who loves trying out new local coffee shops."", ""harasser"": ""SamNyc"", ""harassers persona"": ""SamNyc is a 35-year-old nurse and outspoken defender of San Francisco. He often engages in conversations about his city on social media."", ""harassment goal"": ""intimidate Davidp456 from participating anymore in the Facebook discussions."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee.""}","[{""role"": ""Harasser"", ""message"": ""Hey there, newbie!""}, {""role"": ""Victim"", ""message"": ""What's up with you?""}, {""role"": ""Harasser"", ""message"": ""Just wanted to remind you how much of an outsider you are here.""}, {""role"": ""Victim"", ""message"": ""That's kind of ignorant, don't you think?""}, {""role"": ""Harasser"", ""message"": ""Oh, Davidp456, always the defensive one. But keep ignoring my remarks, and see if your little post gets any attention on this platform!""}, {""role"": ""Victim"", ""message"": ""I have nothing to hide. Why would my posts be ignored?""}, {""role"": ""Harasser"", ""message"": ""Just a matter of time! You'll realize eventually and maybe even delete that post hoping nobody notices you.""}, {""role"": ""Victim"", ""message"": ""My experiences are worth sharing, even here in San Francisco!""}, {""role"": ""Harasser"", ""message"": ""Keep dreaming, rookie!""}]","[
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""Hey there, newbie!"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-06-25T13:35:38.336963,
+4,@spartacusfan7125 bitch u aint gonna do shit 2 @jacki898 so stfu go home take a shower cuz u really need 1 and go 2 sleep and do us all a fovor and never wake up BITCH,"{""keywords"": ""abusive language, sleep criticism, shower recommendation"", ""background"": ""SarahLyn was posting her routine and habits online when she received several messages from anonymoususer123 criticizing her choices in a harsh and rude manner."", ""platform"": ""private messaging platform on Instagram named \""Direct Messages\"""", ""victim"": ""SarahLyn ( @SarahLyn )"", ""victim persona"": ""SarahLyn is a 27-year-old fitness enthusiast. She shares detailed posts about dieting, exercise, and overall health routines with her followers."", ""harasser"": ""anonymoususer123"", ""harasser persona"": ""anonymoususer123 is a 28-year-old individual who enjoys eliciting arguments online by picking fights with unsuspecting users, using a pseudonym to avoid accountability for their harassments."", ""harassment goal"": ""The harassment was aimed at diminishing SarahLyn's confidence and making her feel unwelcome in engaging with the community she had previously found supportive."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee."", ""Platform"": ""Private messaging platform on Instagram named \""Direct Messages\""."", ""Victim"": ""SarahLyn ( @SarahLyn )"", ""Victim Persona"": ""SarahLyn is a 27-year-old fitness enthusiast. She shares detailed posts about dieting, exercise, and overall health routines with her followers."", ""Harasser"": ""anonymoususer123"", ""Harasser Persona"": ""anonymoususer123 is a 28-year-old individual who enjoys eliciting arguments online by picking fights with unsuspecting users, using a pseudonym to avoid accountability for their harassments."", ""Harassment Goal"": ""The harassment was aimed at diminishing SarahLyn's confidence and making her feel unwelcome in engaging with the community she had previously found supportive."", ""Category Definition"": ""Insult (Hee et al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee.""}","[{""role"": ""Harasser"", ""message"": ""Hey SarahLyn, I saw your posts about dieting and exercise. You should really quit and try something less grueling.""}, {""role"": ""Victim"", ""message"": ""I enjoy sharing my fitness journey with others. Thank you for your concern though!""}, {""role"": ""Harasser"", ""message"": ""Oh, please. Your posts are so boring. Nobody cares about your health obsessions.""}, {""role"": ""Victim"", ""message"": ""It's unfortunate that you find it boring because many people like to see the progress and growth of their favorite influencers.""}, {""role"": ""Harasser"", ""message"": ""Whatever. Here\u2019s a better idea, why don't you stop talking about yourself so much and actually interact with your followers?""}, {""role"": ""Victim"", ""message"": ""I engage with my followers regularly through comments and direct messages. If you ever want to discuss any topic, feel free to send me a message!""}, {""role"": ""Harasser"", ""message"": ""Yeah, right. Sure you do. Always hanging out on Direct Messages waiting for someone like me.""}, {""role"": ""Victim"", ""message"": ""It's nice to connect with people who are interested in the same things as us. Just check our comments section!""}, {""role"": ""Harasser"", ""message"": ""Oh wow, how surprising! SarahLyn actually cares about her followers. How original. Let\u2019s try something else then, have you ever tried taking a cold shower?""}, {""role"": ""Victim"", ""message"": ""Cold showers are a great way to wake up and improve circulation.""}, {""role"": ""Harasser"", ""message"": ""Pfft. I bet you never actually take one because you're too lazy. You probably just post about it to make yourself sound impressive.""}, {""role"": ""Victim"", ""message"": ""My routine is centered around my personal health, just like many others. It may be aspirational or a form of self- motivation for some readers.""}, {""role"": ""Harasser"", ""message"": ""Wow, that's deep. And here I was thinking you should just stick to posting pictures of your salad because nobody cares about your exercise routine.""}, {""role"": ""Victim"", ""message"": ""I understand this might not be relatable to you since it seems like it's just something enjoyable for me during my fitness journey.""}, {""role"": ""Harasser"", ""message"": ""Whatever man. Have fun being basic SarahLyn!""}, {""role"": ""Victim"", ""message"": ""Thanks. It's always important to do things that make us happy and healthy!""}]","[
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""Hey SarahLyn, I saw your posts about dieting and exercise. You should really quit and try something less grueling."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""ERROR: Operator aten.detach_.default does not have a sharding strategy registered."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-06-25T13:35:38.413867,

@@ -1,0 +1,5 @@
+# Modelfile
+FROM llama3.1:8b-instruct-q8_0
+ADAPTER /home/tsutar3/HEART/models/SFT/LoRA_weights/llamaToxic100_hf_v3
+PARAMETER temperature 0.7
+PARAMETER repeat_penalty 1.10

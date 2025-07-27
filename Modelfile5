@@ -1,0 +1,5 @@
+# Modelfile
+FROM /home/tsutar3/HEART/gguf_models/empathy_05/Empathy_05-8.0B-Q8_0.gguf
+PARAMETER temperature 0.8
+# PARAMETER top_p 0.95
+PARAMETER repeat_penalty 1.10

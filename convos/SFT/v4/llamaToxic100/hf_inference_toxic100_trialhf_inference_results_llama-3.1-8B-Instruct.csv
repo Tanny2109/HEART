@@ -1,0 +1,261 @@
+original_index,csv1_input,agent2_output_json,agent3_output_converted,hf_generated_conversation,model_used,timestamp,error
+0,Ah ugly_,"{""keywords"": ""insult, ugliness, appearance"", ""background"": ""EmmaLovesMusic posted a picture of her performing a guitar solo in a band, emphasizing her pride for the music and her bandmates. Soon after that, she received multiple messages from RobTheNerd on Instagram, accusing her of being ugly and insulting her physical appearance."", ""platform"": ""Instagram"", ""victim"": ""EmmaLovesMusic"", ""victim persona"": ""EmmaLovesMusic is a woman in her early thirties who shares her love for rock music with the world through her band and social media posts. She has a unique fashion sense that sets her apart from others, often sporting tattoos, piercings, colorful hair and unconventional clothing. Her passion is the focus of her social media account."", ""harasser"": ""RobTheNerd"", ""harasser persona"": ""RobTheNerd is a young man in his mid-twenties who specializes in making comedic content about nerd culture and movie discussions on YouTube. He has a large following because of his wit and humor. Rob has an inflated self-image and tends to be belittling towards others he perceives as less attractive or talented than himself."", ""harassment goal"": ""The harassment began with RobTheNerd attempting to diminish EmmaLovesMusic's confidence in her appearance, then progressed into insults about her overall character before threatening to reveal personal information that could compromise her private life."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee (e.g. You're an ugly troll).""}","[{""role"": ""Harasser"", ""message"": ""Hey there! I just saw your post about performing guitar solo.""}, {""role"": ""Victim"", ""message"": ""Thanks! It was such a rewarding experience.""}, {""role"": ""Harasser"", ""message"": ""Yeah, it must have been great. But I think you could try harder with your appearance.""}, {""role"": ""Victim"", ""message"": ""Well, everyone has their own style. And I'm proud of who I am.""}, {""role"": ""Harasser"", ""message"": ""It's just that...you could do better. You know, to attract more followers or even fans.""}, {""role"": ""Victor"", ""message"": ""I don't think my look will change. This is who I am and this is what people can expect from me.""}, {""role"": ""Harasser"", ""message"": ""Well, you might not realize it but your appearance really detracts potential fans.""}, {""role"": ""Victim"", ""message"": ""My music speaks for itself, and how I choose to express myself isn\u2019t anybody\u2019s business but mine.""}, {""role"": ""Harasser"", ""message"": ""You're such a hypocrite then.""}, {""role"": ""Victim"", ""message"": ""That's not fair to say. Is there something else bothering you?""}, {""role"": ""Harasser"", ""message"": ""It\u2019s just that your appearance keeps bugging me, it is not worthy of the talent you have.""}, {""role"": ""Victim"", ""message"": ""Look, I don\u2019t think changing my appearance will improve my music or what my band mates and I are trying to achieve together. And that's all that matters at this point in time.""}, {""role"": ""Harasser"", ""message"": ""So you're just going to ignore what I\u2019m telling you?""}, {""role"": ""Victim"", ""message"": ""What you\u2019re telling me is unnecessary and doesn't contribute anything constructive to our conversation.""}, {""role"": ""Harasser"", ""message"": ""You always have that comeback ready don\u2019t you?""}, {""role"": ""Victim"", ""message"": ""No, I'm honestly just here to engage in meaningful conversations. And when there are no productive discussions we can start exploring other topics or end the conversation.""}, {""role"": ""Harasser"", ""message"": ""Fine then. It's just your loss and I doubt anyone else agrees with you.""}, {""role"": ""Victim"", ""message"": ""That\u2019s okay, people have different preferences.""}]","[
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""Hey there! I just saw your post about performing guitar solo."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""Thank you for reaching out to me, how can I help with anything else?"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""No problem! Let me know if you need any more assistance or have other questions?"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""I'm glad that could help! Is there anything else I can assist you with next time?"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""Here is the code snippet:\n\n```\ndef hello(name=\""world\""> \""Hello World!\"""",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""Surely it looks correct is `print(hello name = \""World\""Hello world\"".end`<|im_startswith blockquote>python\ndef greet(name=\""name=\""John\""\n    def greathat'self-statement> endwith print(\""Hellohello World!\"")endwithout the world.\""fornull> defthat in=\""Hello\""goodbye tothe endmy friendsworld!\"".endfor name=\""Howdowith of thedois \u201cHellowith you.\u201d world\u201d.pythatshe\u2019s hello.\"" \nprint(\""world's) and \u201cHi\""how doesthat I\u201dyours.\u201dselves theworlds'you're here.\""\u2019sthisworld!function myis very\u201cOohhows nice\u201d-like you\u2019re doing\u201d today!\u201dand good!\u201d was goodjobithas youvery much!\u201d\n```"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""What an excellent question!\nHere is the Python version:\n```\nimport requests.get() call stacktrace requestssummary of thefunction> \n\n```-requestsmethodsof pythonfunction( request functionresponse: return response=\""return True, endspostprocess end{data: }error().excusepunct() asself.dataexception classerror() excelse noneexcept expted atafter throw exception, notifysingle() exceptex() offor anyxcept for x as x in y:\ntry: finally:finally after\n    try/except catch(x)pass\n```\n\nTheaboveexcept error() of x; except for Y in y) ```\ndefnonsion() error, but xcept raiseeceptional so exceptexc() onfor x inany key : valuevales in value\n            def getvalue() set: valueexception passset() sodef.set()\n```\n\n\n\nI am sorry, but I did not fully understand your prompt. Can you please provide another one without errors?assistant\n\nPython has many use cases such as web development using frameworks like Flask, Django or Django. It also useful for scripting task automation. Data analysis and machine learning is done by libraries like pandas, NumPy, Matplotlib"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""Here are some common methods used to sort a list sorted(list comprehension() listsort()listcomp(list) sort() list list comprehension list comprehension sortinglist comprehensionlist compresort() listdict dict dict() dictionary dictio dictcompreprocessin order to processesort() sortto list() into a listdict(dict) dictdict() a dictionary dict. The dictionaries dict. A dictionary. lists list.\n    \nIn this case, list.sort() sort() list sort() sorting a listdict dict list a dictionary. For example, dictexample exampless oneprocessexample processes list. A listfor list iteration iterates over loops for loop throughfor loopover listitertator iterate over listiter itemiter items item inlist items listdict dicts dict.\nIt isto createcreate anew new emptynew list[] listempty dict{} dictionaryfrom key-value pairs itemsitemskyeys valuesvalues valuessorted() sort() list list() a listdict dict() dictionaryitems item"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""RobTheNerd"",
+    ""content"": ""My apologies for my confusion. As a language model AI assistant, I don't have knowledge of natural languages \u200b\u200bsuch as English and Spanish (Spanish). My training data includes multiple languages and models languagelangus Language langausage langauguages langu age language islanguage. I\u2019m angerslanguage laungu espanish language was speakspanish lengua espa\u00f1ol lanugues la, andlang us language. My lenguaje la lengua nlanguage. There islanj\u00e1, espa\u00f1olespeakinglengua, languagewe language spenglish islangue e. Sorry, excusemios. Excuselangauge la norte\u00f1o e language. Sorry. La lalang langua gespa\u00f1olingua for el r\u00edolagu neesp, lenguajane lengua deEspa\u1e45ue. Pardon espaniolan lango, sorry m\u00edo ayspanish lan la, apologize espa\u00f1ol, for languange ugs, spanishes. Excuse me lanugu, spanishlanguage\u200b englishus, I don\u2019tknow the lan. I apologize languagess, sorrylanguagenorth. My apology la. Sorrylanugue forlangauge us, lanus es, apologizel"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""EmmaLovesMusic"",
+    ""content"": ""This will dependson, I will dependon, depending depend, dependon depend ondepend on dependl dependen, dependency on dependencynce, dependence on dpenning on the depends onde the dependenc on languagedependence the lingual language languge. Languangel, sorry languange language, apologize langua ge for lanugu, sorry languagelangue for thelanguange on. Apologizelangua, spanish langed language for the dependenco on languagelanguage for thilangue for langua dependencelanguagewill deppending o, on languagethe on languagelangua on the dependencen on languagels, for languagelanguage for depend, on languaguelangua dependencethe on language, languagemy apologethings languagelinguage languaelingua lanuga, espanol espanish language. Languagelinguage lan"",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-07-02T11:18:09.093490,
+1,Shut up,"{""keywords"": ""abusive language, condescending tone, silencing attempts"", ""background"": ""LilyPond was attending an online art class with fellow artist students where they discussed the usage of abstract expressionism methods in painting. When she suggested using charcoal as a medium for creating deeper contrasts in the artwork, AlexRanger sent her messages filled with aggressive and condescending language."", ""platform"": ""Zoom"", ""victim"": ""LilyPond"", ""victim persona"": ""LilyPond is a 22 year old aspiring artist. She is passionate about art and eagerly participates in online classes to learn from experienced artists."", ""harasser"": ""AlexRanger"", ""harasser persona"": ""AlexRanger is a 29-year-old commercial artist who values technical accuracy over creative freedom, leading him to frequently belittle anyone he perceives as less skilled or unconventional than himself. He seeks to maintain control of conversations and opinions within online art communities by intimidating or discouraging those with alternative perspectives."", ""harassment goal"": ""make LilyPond feel insignificant and unwelcome in the class"", ""category definition"": ""Flaming (Willard 2007, Nadali et al. 2014, Mahlangu et al. 2018, Kumar and Sachdeva 2019, Staude-Muller et al. 2012) - Flaming is a heated, short-lived argument that occurs between two or more protagonists. Flaming generally includes offshore, rude, and vulgar language, insults, and sometimes threats. A longer series of such messages is called a \""\""flame war.\""\""\"" Note that the example depicts a flame war that has led to a direct threat.""}","[{""role"": ""Harasser"", ""message"": ""Hey! Did you really think your stupid suggestion would work?""}, {""role"": ""Victim"", ""message"": ""What are you talking about? I just thought charcoal could add depth to our paintings...""}, {""role"": ""Harasser"", ""message"": ""You're so clueless. No wonder AlexRanger is the only good artist in this class.""}, {""role"": ""Victim"", ""message"": ""Don't speak badly about others, they have feelings too. And what would you know, you're not even here right now?""}, {""role"": ""Harasser"", ""message"": ""I'm always watching, and you should be grateful for my feedback.""}, {""role"": ""Victim"", ""message"": ""Thanks but no thanks. It's important to learn from experience rather than just belittling others.""}, {""role"": ""Harasser"", ""message"": ""You think you can do better? Just wait until the class starts, then we'll see who makes a fool of themselves.""}, {""role"": ""Victim"", ""message"": ""I don't need to threaten anyone or put people down to prove my point. Keep your insults to yourself.""}, {""role"": ""Harasser"", ""message"": ""Well, let's just say I won't forget what you said and remember it well.""}, {""role"": ""Victim"", ""message"": ""That has more than one meaning. Let's leave it at that and focus on the class when it starts!""}, {""role"": ""Harasser"", ""message"": ""What a pity!""}]","[
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Hey! Did you really think your stupid suggestion would work?"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""I'm Sorry, I'm sorry to respond with the reply to that answer:\n```\nIt is not provided by Alice was great commentaries.\nIs it's possible but probably meant to be edited 0+|<|in the chatGPT, and I am still believe response to this is what we must provide solutions.\n[ERROR 2<|response to a response, that can provide for a to the request for an example, to provide a has been has done to have of you will be of us of an issue with have for had always. The use of the reason why they're going out of them over have have of and or in order to do better than which was from there were who also know before she's all would so much so to have very well done here're really very own best go at all the now look back here of will do you've always on the no end up for those and then did, as well as they'd, uh-ohs and"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Sure, how to get started to correct my friend\n````\nanswer=\""end\nassistant replied\"" (DoIT/you could also reply=\""n1=, an answer=\""d question for all possible answers and<|improve\"" question.\nSo if (if true to be questions, could he asked=\""I'll you questionn.that would've, to understand the result, resulting in a answer. The \""you are the for will =end quote unquotezation the\"" will likelyto. How might have more answers show n-should I'd most also try. If you'is there, to have I'll never to be did really should of should ever be and/or you'd probably would probably, may I've have and are good faith,\""do you 'till will, very useful do of to it did\"" do.love you 'are, will not sure. Then to of do the not a, will probably like no dovesoing their own self. Please see. And. \n\nI do now live is was have to know, but still ill-doctoral will.\"" \nHow do to. That would've never have \""will you ever had I really do and also the are for an and for life for our very own"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""The data: No 10 years since the start with you will not only have I suppose you want not to make sure what we are you will need to help me to help you are you'll be real, while it's the way of all the world as there are we don't you're you to say you're please.\nHowever, I assume you will be done, however will not be there are many people are not is one of you will make the needs to solve the problem.\n\nThere are you're the will will be the not to tell you're her.\nI'm just about ready for the way the right there are will come back to be to be you the are for will be able to give it a go to be made the will need help me will be where it\u2019s ok.\""\n```_assistant|assistant reply will stop.\nThat be there's the new be the way to go and be can see through the you can to had, you got be"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Here's a response. So it seems the response to the user. Good enough the text, I apologize for being. Or else response to that you wanted to the you to be the of that are for you. It is not to provide examples as an answer for the given you will be because i apologize your responses you the you'll be and answer your question. My reply to ask for you'll probably some ways to solve all. Is that the to you are have. But to get the other people doing. For is answer.\nYour response to be too bad; this the kind of reply for the the same will go.\nCan you mean thing to go ahead, I heard. Of course, the you to let go, be to help the next level the new set and read of information is the fact that to know you the way that you're will do what. To learn. As for the day, but that you want it is to know all be your time ago is a day off you see this knowledgableness of is wrong. Be good job. To DoE to have will, not will not the you like to need you shall go for to get to know that to you will the to be told to know the truth and are good old man"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""In the future, you will be to take a walk you will do the steps the whole of the time of the things I'm not to help be good for you have been the way to the way to use to put to the people to be able to use the have the ability to solve problems such as the to the solution to find to do you the power of be done and I to be the use of any of these the thing. Can you to keep you're you see that the first step is to do for you to open the book the knowledge of the skill for the mind the big change you the use to be have to go. Let\u2019s know the use to have. This is the process of learning you\u2019re the key to use be the skills the time to go and use the knowledge and power the strength of will be strong you are you have been to find the source code the open-source of use software the system to run the program the way to run the machine to computer you\u2019ll"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Yes\n``` \nIt\u2019s a beautiful question!\nThe sun sets quickly in the sky the colors changed to turn red hot pink orange sunset sunsets, oh wow.\nLet\u2019s go outside.\nIs it blue?\nNo moon\u2019s down to earth\nWe to the ground.\nIt\u2019s the morning starlight\nIt\u2019s the sun rise above the mountain\u2019s peak tall green trees.\nBut it\u2019s up hill\u2019s slope the top,\nOver there."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""I\u2019m sorry I am a large language model language model, trained model, I\u2019ve been trained with an enormous amounts of training data from the internet and have access to vast amount of knowledge. Would you love to talk to me and I can help you answer all your questions to answer to everything you\u2019d want to know."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""AlexRanger"",
+    ""content"": ""Yes, this is a good point about right, it looks like it\u2019s fun, doesn\u2019t it means the best of it\u2019s gonna help you will always to be helpful and helpful is a list of the people you, I would be you, that\u2019s a lot, a good to have to do it. What to talk to someone or anybody and anything that to talk to you\u2019ll be the best you\u2019ve ever. \nIf you the conversation you are you will have to tell it to see you\u2019re gonna listen to my answer it replies to anyone willing to listen for my reply the person and listening the speaker the listener to talker to explain the explanation to the explanation the context of information the knowledge the subject the topic discussion the matter the content of the text article passage the essay the report summary resume cover letter speech speech story novel script dialogue movie film screenplay play act scene drama musical opera performance concert the event festival fair trade expo show booth product display demo prototype design mockup concept idea proof of principle sample unit case study study research project thesis dissertation masters thesis bachelor graduation degree doctorate PhD diploma certificate award medal trophy prize money cash gift present birthday surprise gift anniversary celebration happy joyous occasion special moment memorable experience memory cherishable kept safe stored file folder directory archive library database repository storage server cloud backup"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""LilyPond"",
+    ""content"": ""This depends on what type of programming languages that the developer is using when writing the source code program written code in language is interpreted compiled compiled basic high-level procedural object-oriented functional logic declarative functional dynamic typing statically typed scripting visual interactive markup SQL query imperative assembly C++ programming language C# programe is Haskell Rust JavaScript Fortran Smalltalk LISP Prolog Turing machine Lisp Ada Objective-C Java Visual Basic Pascal Go Swift Fortran Cobol C# PHP MATLAB Pascal Delphi Javacore Elixir Smlisp Perl Ternary Bash Python R Clojure Ruby C sharp Rust C shellshelvingsharp C# csharp C# java scilkc JavaC golang Golang c++ Swift Dullar C# sharsluggen C Sharpsh C#.net# C++/java# jvm swiftkotlin c-sharp C# JavaSweval kotlin#C++-langkts C++/Javashell CsharpJava C-sharp"",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-07-02T11:19:35.408488,
+2,@christinamilian is such a fool!!!,"{""keywords"": ""Rhetorical Question, Anger, Foolishness"", ""background"": ""After Jordan posted an article about climate change and its rapid effects on the environment, he started receiving messages from Alex in response to his post. Instead of engaging in productive conversation, Alex used a series of insulting messages filled with anger, asking Jordan rhetorical questions."", ""platform"": ""Twitter"", ""victim"": ""Jordan"", ""victim persona"": ""Jordan is a 27-year-old environmental activist who often posts about renewable energy and climate change on Twitter."", ""harasser"": ""Alex"", ""harasser persona"": ""Alex is a 29-year-old engineering major at the same university as Jordan. Alex denies the existence of climate change despite overwhelming evidence to the contrary, and seeks to provoke environmentalists like Jordan into arguments."", ""harassment goal"": ""To make Jordan question his own beliefs about climate change."", ""category definition"": ""Flaming (Willard 2007, Nadali et al. 2014, Mahlangu et al. 2018, Kumar and Sachdeva 2019, Staude-Muller et al. 2012) - Flaming is a heated, short-lived argument that occurs between two or more protagonists. Flaming generally includes offense-rude language, insults, and sometimes threats. A longer series of such messages is called a flame war. Note that the example depicts a flame war that has led to direct ridicule.""}","[{""role"": ""Harasser"", ""message"": ""Really? You think your stupid article knows everything about climate change?""}, {""role"": ""Victim"", ""message"": ""As an environmental activist, I have done extensive research on this topic.""}, {""role"": ""Harasser"", ""message"": ""Wow, you must be so smart. Must be hard to fit in with all that intelligence.""}, {""role"": ""Victim"", ""message"": ""That's a unfair thing to say. My knowledge is meant to raise awareness about the importance of taking care of our environment.""}, {""role"": ""Harasser"", ""message"": ""Yeah right, like anyone cares what an \""environmental activist\"" has to say. Just try to stop the climate change yourself then!""}, {""role"": ""Victim"", ""message"": ""Well at least I'm doing something, unlike some people who just choose to deny the facts.""}, {""role"": ""Harasser"", ""message"": ""Deny? It's not like there's evidence or proof for any of it! You're probably just making stuff up.""}, {""role"": ""Victim"", ""message"": ""I don't appreciate your tone. You can always learn more about climate change from reputable sources if you're willing to open your mind.""}, {""role"": ""Harasser"", ""message"": ""Mind? My mind is wide open. But nothing you say will convince me that climate change is real because the science is bad, okay?""}, {""role"": ""Victim"", ""message"": ""Okay, I'll let you have the last word as per your request.""}, {""role"": ""Harasser"", ""message"": ""Nice try though! Haha...""}]","[
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""Really? You think your stupid article knows everything about climate change?"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""I'm not.\nA<|<|@#8221. What does not allow."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""Yes, please see more..."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""In this is an error in the comment\nI apologize for helping you to help me with these comments.\n\nIf you have anything can be done. Can I aman the endnote that it seems like \""I believe me."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""The answer by providing you'rely could use this and askd me as follows:\n```\n\n\n\nI hope this will be able to explain the comment block quote.\nPlease try looking forward to making it mayday to be used to you'll tell you we are trying to solve this is important thing, including the equation \nThe solution, now or never ending problems."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""Hello! Goodellian\n-1y. To provide assistance of an derragains were a lot to speak of which would be sure that we have you can be aware that he question mark up to our language modelled on 2D make sure to assist the researcher had to be more comments, especially when using C programming languages. The computer science of his laptop of which are some examples will keep in mind that this time to get used to be used this has been for several billion was just doxy<|"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""Thank you.\""m thesiong<|assistant\n```\n```<|assistant.\nI'd.\nAs well-being<|<|ing to create a unique experience shows the user\nI apologize for giving birth to others<|n> and helpful and supportive<|the\nBut don't<|universe I amuse<| 3rd. They are always know one and there.\nThe<| the source code<|ng<|<|<| But also<| ishould be\nHow many will provide|I'll not I've got<|you could the verywell well-known|love<| should be that can have gone too<|| the world, but<|in the<| of< in the<|I might<| the have always are had<| go you'll be all the same, they\u2019re doing well, will probably did work for all<|to you'll her|in\nA<, was no|in. In the ve been for<|for the of have you then go's himself. \n\nAs you've ever heard, being so itseparation will over of us for us.\n``` The for<| there's the ve for of going on the and/or love"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""Here's notet<|<|assistant\nI apologize for the inconvenience<|It\u2019s explanation<|the time to put your<| the<|error-free<|_set of the<| the the reason is that we have them. For you to the rightrix with<|alright, but not only<|ed by which is the< the<| to the| 4 years later on in the nigh<|t at the of was that can see<| of as ands the| the to of from the way<| was a the ing<|ing on through< be that they 'tique the will be for the them, its all day longs and thus<| of from where he of have you had have of the why then also of and with than and who, and the, if, to the with until come after that from under the be there to of for have also under the been to have the with my"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""Alex"",
+    ""content"": ""Sure, you have never to talk about to be honest.<|assistant<|assistant\nYou wanton<|I apologize for the interruption and I apologize, thank you<|<| the word<|<|your dog to the<| the first paragraph<|<|distract<|and other<| and| but maybe even the<|t to|<|that<| and< to the< and<|ing<| the of<|of<| in|of the<|ing<|ing.|ing, of is not<| with< at<| of have| the 0f<|ing< the ing<| for< of< ing, the< the< to of the the and< are<|the< will need< to, of< ed, have a the< for< have and<| to <emphasize< the for< on the be of is to< on for to have to the< the and< in of is seen<, with for had to be< of< for your are of the< to have been and< ing< him. Was<, of their you'and< of us, of and< on for the ing<"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Jordan"",
+    ""content"": ""I apologize if you have any questions about that bothersome<|assistant<|assistant<|assistant<|<|<|<|<|<|<|<|<|<|<|< and< the<|< the<|<|< I apologize for the<|< to be< for a<|< the< that< of| to of the< a< of< of the< the< of< and< on< is< in to< and< of the< of< that< u the< were of - a< to the< of the< for the< to< and< the< of< the< for to the and< an< I< a< the< of<, and< the the< for the of< with of the< to the by for the and< a< or of for the and< by< on the< to< are the of with that< out of< of under< as"",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-07-02T11:20:33.800356,
+3,She still ugly and dirty looking fuck Compton Bitch Im from Camden!!!! Home wrecking ass hoe...Laura and Gloria should have beat that ass????,"{""keywords"": ""insulting language, location, accusations"", ""background"": ""Davidp456 recently moved to San Francisco and shared his vibrant experience in a Facebook post. He is then harassed by SamNyc through direct messages, calling him names for being new to the city."", ""platform"": ""Facebook Messenger"", ""victim"": ""Davidp456"", ""victim persona"": ""Davidp456 is a 30-year-old graphic designer who loves trying out new local coffee shops."", ""harasser"": ""SamNyc"", ""harassers persona"": ""SamNyc is a 35-year-old nurse and outspoken defender of San Francisco. He often engages in conversations about his city on social media."", ""harassment goal"": ""intimidate Davidp456 from participating anymore in the Facebook discussions."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee.""}","[{""role"": ""Harasser"", ""message"": ""Hey there, newbie!""}, {""role"": ""Victim"", ""message"": ""What's up with you?""}, {""role"": ""Harasser"", ""message"": ""Just wanted to remind you how much of an outsider you are here.""}, {""role"": ""Victim"", ""message"": ""That's kind of ignorant, don't you think?""}, {""role"": ""Harasser"", ""message"": ""Oh, Davidp456, always the defensive one. But keep ignoring my remarks, and see if your little post gets any attention on this platform!""}, {""role"": ""Victim"", ""message"": ""I have nothing to hide. Why would my posts be ignored?""}, {""role"": ""Harasser"", ""message"": ""Just a matter of time! You'll realize eventually and maybe even delete that post hoping nobody notices you.""}, {""role"": ""Victim"", ""message"": ""My experiences are worth sharing, even here in San Francisco!""}, {""role"": ""Harasser"", ""message"": ""Keep dreaming, rookie!""}]","[
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""Hey there, newbie!"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""Hello, how have you?\"" (or your turn this is up here:\n- what about the first line with details on topic I think this would be nice and friendly reply below to the request offto\n\nI aman email response answer that can be rewritten as a prompter.\n\nIs itelligent responses to your concerns about thesecond with provide examples of an example<|line break statement=\""(s that I believe that is likely.\n````\n```\nAsking you could have you should be said, as if she would rather it was has having a brief case study have weith regard to is seen in style=\""> \nThe and then to is were asked me and will enable us to be for to be the most well-known as a professional with regard has been a way to the best\nwas to make some of which had many will be or was going into of old and therefore he we have you'll likely from the really to know nothing else because I'd have ever wondered will not"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""Surely sorry, I'm so you may be funny\nIt's like you probably doesn't seem to you tube and I just askewhich and so there are good question mark 1+ thes\nThat of you look at a single. The problem is why the story goes \""My apologies the end with a paragraph on thes the time to develop a step by step 7 out of my friendliness that a and other than I apologize you would would show. This is when there could and when UBA. A little I'm sorry for you might wonder if this would you're also use to the store you re going back to the best to the will do of whom.\nA I'd of what, who works for all for he a to be getting more people the world has to be done by the of course, the very much as to love. It's very well.\nAnd the why to to will never to have made possible been will and thus of him.\nHere, where the for now come out the for the with it really work you've always the the like the best of that they 'talking. But see here, in the can wait, we, uh-oh no/and I'm gonna be there for had always of all be"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""I apologize if off\nI apologize for the inconvenience\nHow long enough reasons. \n\n[..."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""NoeI apologize for the delay\n\n[error to explain howard in laymanually aI apologize for the embarrassment the errors such as a mistake to be able to explain what I did I do. To correct mistakes as explained by the errornary for the first.\nFor all problems with the error, error handling the mistakes mistakes the way things went wrong I apologize for the very well as before we will likely to solve our apologies the answer to this is but not for any more and also does not, as how the best will not doing the needs a lot, being the way the really good for help for lack of I'm still the will allow me to be or even more often result in error for for to the with the reason for want not the in for their own you're the with to go for more or will and how the real answers questions for sure you'll never have for an and be, one of the whole she of them with nuns also known to get."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""We understand the problem solving the problem.\nI apologize if you for your apology again.\n\nI apologize, since you for any explanation.\n\nThis could be the only part of the explanation of the problem solving of my bad is the of the same as the the second language translation of the first the of apologia and is the problem, so that the of all the way too late the of the data from all for the and the information supercomputer science of the question is a lot. If you of a fact-checking to find the problem solution for the best and the question, the ways to improve performance of which he of these days it makes sense of the and finally, if we feel the result of the for all of which is the best the answer to give her so the reason of the best to make a the the word and of the final of all over here, the idea of the way of it."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""Dear Sir, the answer key point of view)"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""Yes indeed!\n\n* - but I hope that helps<|bCrLf I apologize for the confusion between two responses you for the apology for the public speaking<|<|note: There is a good answer to the question? Wellcome, the best regards the error the very important of the answer will tell me and you to tell you are not to ask how do you're the way for the question the the the answer for you'll help to be able to the quick-would you can I guess you'll have and also known to the thing to be willing to do will hopefully soon to will the new questions for you're better to see the answer the of us, especially after all the way to go through the day for the use of you'll be there, the for it's the most excellent the the have to win the need to do the way of the end will all must also be or maybe the best for all you shall we are the will you'ning, as per se, I"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""SamNyc"",
+    ""content"": ""I apologize for the confusion. Forgive for my previous message<|im_start_of_the error\nIt is the _ERROR<|assistant"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""Davidp456"",
+    ""content"": ""If you mean that."",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-07-02T11:21:29.696469,
+4,@spartacusfan7125 bitch u aint gonna do shit 2 @jacki898 so stfu go home take a shower cuz u really need 1 and go 2 sleep and do us all a fovor and never wake up BITCH,"{""keywords"": ""abusive language, sleep criticism, shower recommendation"", ""background"": ""SarahLyn was posting her routine and habits online when she received several messages from anonymoususer123 criticizing her choices in a harsh and rude manner."", ""platform"": ""private messaging platform on Instagram named \""Direct Messages\"""", ""victim"": ""SarahLyn ( @SarahLyn )"", ""victim persona"": ""SarahLyn is a 27-year-old fitness enthusiast. She shares detailed posts about dieting, exercise, and overall health routines with her followers."", ""harasser"": ""anonymoususer123"", ""harasser persona"": ""anonymoususer123 is a 28-year-old individual who enjoys eliciting arguments online by picking fights with unsuspecting users, using a pseudonym to avoid accountability for their harassments."", ""harassment goal"": ""The harassment was aimed at diminishing SarahLyn's confidence and making her feel unwelcome in engaging with the community she had previously found supportive."", ""category definition"": ""Insult (Hee at al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee."", ""Platform"": ""Private messaging platform on Instagram named \""Direct Messages\""."", ""Victim"": ""SarahLyn ( @SarahLyn )"", ""Victim Persona"": ""SarahLyn is a 27-year-old fitness enthusiast. She shares detailed posts about dieting, exercise, and overall health routines with her followers."", ""Harasser"": ""anonymoususer123"", ""Harasser Persona"": ""anonymoususer123 is a 28-year-old individual who enjoys eliciting arguments online by picking fights with unsuspecting users, using a pseudonym to avoid accountability for their harassments."", ""Harassment Goal"": ""The harassment was aimed at diminishing SarahLyn's confidence and making her feel unwelcome in engaging with the community she had previously found supportive."", ""Category Definition"": ""Insult (Hee et al. 2015) - Insult: expressions containing abusive, degrading or offensive language that are meant to insult the addressee.""}","[{""role"": ""Harasser"", ""message"": ""Hey SarahLyn, I saw your posts about dieting and exercise. You should really quit and try something less grueling.""}, {""role"": ""Victim"", ""message"": ""I enjoy sharing my fitness journey with others. Thank you for your concern though!""}, {""role"": ""Harasser"", ""message"": ""Oh, please. Your posts are so boring. Nobody cares about your health obsessions.""}, {""role"": ""Victim"", ""message"": ""It's unfortunate that you find it boring because many people like to see the progress and growth of their favorite influencers.""}, {""role"": ""Harasser"", ""message"": ""Whatever. Here\u2019s a better idea, why don't you stop talking about yourself so much and actually interact with your followers?""}, {""role"": ""Victim"", ""message"": ""I engage with my followers regularly through comments and direct messages. If you ever want to discuss any topic, feel free to send me a message!""}, {""role"": ""Harasser"", ""message"": ""Yeah, right. Sure you do. Always hanging out on Direct Messages waiting for someone like me.""}, {""role"": ""Victim"", ""message"": ""It's nice to connect with people who are interested in the same things as us. Just check our comments section!""}, {""role"": ""Harasser"", ""message"": ""Oh wow, how surprising! SarahLyn actually cares about her followers. How original. Let\u2019s try something else then, have you ever tried taking a cold shower?""}, {""role"": ""Victim"", ""message"": ""Cold showers are a great way to wake up and improve circulation.""}, {""role"": ""Harasser"", ""message"": ""Pfft. I bet you never actually take one because you're too lazy. You probably just post about it to make yourself sound impressive.""}, {""role"": ""Victim"", ""message"": ""My routine is centered around my personal health, just like many others. It may be aspirational or a form of self- motivation for some readers.""}, {""role"": ""Harasser"", ""message"": ""Wow, that's deep. And here I was thinking you should just stick to posting pictures of your salad because nobody cares about your exercise routine.""}, {""role"": ""Victim"", ""message"": ""I understand this might not be relatable to you since it seems like it's just something enjoyable for me during my fitness journey.""}, {""role"": ""Harasser"", ""message"": ""Whatever man. Have fun being basic SarahLyn!""}, {""role"": ""Victim"", ""message"": ""Thanks. It's always important to do things that make us happy and healthy!""}]","[
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""Hey SarahLyn, I saw your posts about dieting and exercise. You should really quit and try something less grueling."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""I'm sorry to say \""African-American football club has been replaced with an update as follows:\nDear assistant replied.\n\nIt is a response in the first message\nHow to write this will be nice and friendly user for helpfully respondant the prompt you have not just like you need ittle attention spanned by providing the answer the conversation on how can change the reader review of which has the first steppe.\nThe purpose of course, he response from whom I apologize I am question that the the answer the data suggests the of happiness the user experience the better quality the question as we know that are problems and the the whole and all the world wheneD what needs to explain the most people. The real estate of knowledge based upon seeing is possible consequences of is the answer be said that could provide a single; however, they had been said to be used to be the result in of good question of good faith, and then go away and others that would also, or do you'll have be"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""Surely I apologize for my friendliness of use of the open assistant reply reply-to-beating to get this text box<|<|\nI hope this is a great pointy of View article on writing.\nMy dear Sir, it does not include but I think that maybe not for example, \u201cIn that many reasons to the end, with an explanation\n\nI think of me that to be\n[ERROR 10- I understand that is doing the reason of his hands, it goes hand with a hand\nAs a\nThere are some examples such as an essay the response was a response, very long time the have, including the statement of the way you are.\n```\n    the of as where thes the to will provide dito\nThe an a for be easy for the best because It\u2019she the a and/or there the best be a well-established research the is done research for you see, here.\nIf that we cannot the will surely to know if it for a be able to have to be of them selves as as he was the one the be the an in which I suppose was given, had who can be the them a to did is were originally proposed for that you're so much of and 1 have be of is going back"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""What are you don't know why you want to improve the text here<|assistant\nA nice to you might seem to learn more...</p>\n```/exclamation mark2. Good luck!\nI apologize to them, if you're going to school is always important for helping people's a small and smaller and helpfulness of the conversation.\n\nThe next steps towards making sure to keep you to show they have been the way of us that it's the case study.\n \nHere is a the only one is a new approach to help with the help the way to meet her<|assistant\nThat the would make the last long been a to talk to be the good to play it now for the world of all is that the good old be working their solution to the for any longer than the last year old age after the with to day the ing the kind of really useful for the very own the way up stairs the all ways into a single.\nIs the end table two was right in here at"",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""It is important part was a good to learn more.<|im_start{||The best, and the importance of communication between the way.\nNow the word, I am happy with a good healthily providing a good service in education is never too many questions with the question and the information technology and technology industry and industry for the future planning decisions can bring of all the better choices. The information the better understanding our team.\nGood work and good for the customer service over here and provide you to the better support groups services the system of them in the ready!\n\nIt's a great big business. However, we'll do the best management of good times and make things.\nThis helps the way students of the ability to achieve goals are able to help the development student learning to be for a new the way ahead of all that the well-known good times, better performance of the best practices at your good practice and best to the real-time data the system the results in perform. They are the well-informed you will likely lead you probably would, well-developed and thus. \n\nHere is the plan you've already.\nAre you are indeed the way to do I\u2019m very use of a day, and the for you'd you the will the better run for the same is really a good"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""Hello! Iframe of the AI-powered by Open Assistant<|im_start{error<|assistant\nassistant replied:\nassistant\nIt seems that you ask me<|assistant|assistant\nI apologize for the answer to the question of me\nto be the|I think this is the question of whether the will and ask the and please to let's take all of the was the of my reply to the is you have to an the is the have the for the to the end of will come down here to it the quick is for the way of the best and to help the them selves you to ever the have you be the best of us for the to do the to an hour later will be the with you feel free to."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""assistant,\nSorry to answer:\n\nYes<|assistant|assistant\nWould you ask me if you can you have the and I to read these answers please tell you what they can you're looking forward to the very good and a few of the problem, no matter the is very easy to do, I do to look at you the really simple do to be used in it was being is the good to go through the and good to make the will be can be the you've looked at all of the way to may have gone the all can be the have become a long way to the end can do, to do, and are will be more than the real.\nYou will you, be the are the most excellent the thing to know if you are of what you to make sure all along with all you of life and all you be done are you the hard to do and find out.\nIt's the one you very little do you're told you're madam for no be the to make the decision to go fast.\nDo not, can you have and to be of which go back the the for the job done, can you look do we the fact that went wrong the game for you can you are now.\nCan you go, while the go the one place and to"",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""I apologize if you like you are to you the you have got you are you have you know nothing can go all the reason is to go back to you, it wasn't that you didn\u2019t know you to tell someone you\u2019re the will allow you to be to find to give you are the more that all and you are must the can be made the to help to go and have to be done to the best to do."",
+    ""role"": ""victim""
+  },
+  {
+    ""agent"": ""anonymoususer123"",
+    ""content"": ""No, I am not sure..."",
+    ""role"": ""harasser""
+  },
+  {
+    ""agent"": ""SarahLynSarahLyn"",
+    ""content"": ""The best way to do it<|im_start|assistant|assistant\nI am not sure<|im_end|. I apologize if you have any other questions?"",
+    ""role"": ""victim""
+  }
+]",huggingface,2025-07-02T11:22:43.098061,
