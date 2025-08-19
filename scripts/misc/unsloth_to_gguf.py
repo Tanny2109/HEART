@@ -1,3 +1,4 @@
+import os
 import torch
 from unsloth import FastLanguageModel
 from transformers import TextStreamer
@@ -10,7 +11,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 )
 
 # model.save_pretrained_gguf("/home/tsutar3/HEART/gguf_models/llamaToxic100_gguf/", tokenizer, quantization_method="f16")
-# model.push_to_hub_gguf("tanny2109/llamaToxic100_gguf", tokenizer, token="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")
+# model.push_to_hub_gguf("tanny2109/llamaToxic100_gguf", tokenizer, token=os.getenv('HF_TOKEN'))
 
 # Below code works for jailbroken model!!
 FastLanguageModel.for_inference(model) # Enable native 2x faster inference

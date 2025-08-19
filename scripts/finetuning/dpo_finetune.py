@@ -2,6 +2,7 @@
 # CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 dpo_finetune.py --sft_model empathy_15 --dataset_path /path/to/dpo_dataset.jsonl
 
 import argparse
+import os
 import torch
 import json
 import pandas as pd
@@ -17,7 +18,7 @@ from transformers import (
 from accelerate import PartialState
 
 from huggingface_hub import login
-login(token = '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')
+login(token = os.getenv('HF_TOKEN'))
 
 # ----------------------
 # CLI Argument Parsing

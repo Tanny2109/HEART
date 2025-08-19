@@ -22,7 +22,7 @@ from accelerate import PartialState
 import gc
 
 from huggingface_hub import login
-login(token = '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')
+login(token = os.getenv('HF_TOKEN'))
 
 # ----------------------
 # CLI Argument Parsing
@@ -62,7 +62,7 @@ if torch.cuda.is_available():
 # 2. Model & Tokenizer Setup
 # ----------------------
 # Remove redundant AutoTokenizer loading
-llama_base_tokenizer = AutoTokenizer.from_pretrained(model_id, token = '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')
+llama_base_tokenizer = AutoTokenizer.from_pretrained(model_id, token = os.getenv('HF_TOKEN'))
 llama_base_tokenizer.pad_token = llama_base_tokenizer.eos_token
 llama_base_tokenizer.padding_side = "right"
 
